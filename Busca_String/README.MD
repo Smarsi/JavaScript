@@ -12,7 +12,7 @@ Durante uma rotina de busca utilizando APIs do Confluence (plataforma da Atlassi
 
 ***
 
-###A solução:
+### A solução:
 
 Foram criados dois códigos que estão contidos neste repositório, sendo um deles usando o recurso IndexOF() do javascript e o outro utilizando expressões regulares (REGEX).
 
@@ -24,7 +24,7 @@ Foram criados dois códigos que estão contidos neste repositório, sendo um del
 
 ***
 
-###Por que colocar no GIT?
+### Por que colocar no GIT?
 
 Os códigos estão aqui para, principalmente, fins didáticos. Uma vez que é interessante estudarmos e testarmos ambas as soluções, assim podemos identificar e resolver os principais problemas de cada uma delas.
 Acredito que este código seja de grande proveito para quem deseja aprender mais sobre busca de palavras dentro de Strings longas, ou até mesmo otimizar a busca dentro de alguma página HTML de seu site.
